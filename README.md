@@ -6,7 +6,7 @@ I am 13 years old, i do alot of random projects mostly private. I also do pixel 
 
 Skills: Kotlin | Lua
 
-- 🔭 I’m currently working on Minecraft Server Plugin 
+- 🔭 I’m currently working on a Minecraft Server Plugin 
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me: karlitocz (Discord) 
 
