@@ -4,11 +4,14 @@
 
 I am 13 years old, i do alot of random projects mostly private. I also do pixel art in Aseprite.
 
-Skills: Kotlin | Lua
+Skills: Kotlin | Lua | Rust | Game Hacking
 
 - 🔭 I’m currently working on a Minecraft Server Plugin 
 - 🌱 I’m currently learning Rust 
-- 📫 How to reach me: karlitocz (Discord) 
+- 📫 How to reach me: karlitocz (Discord)
+
+- I use from game hacking
+- When i am doing something else i use Kotlin
 
 
 
