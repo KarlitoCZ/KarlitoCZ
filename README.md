@@ -6,9 +6,9 @@ I am 14 years old, i do a lot of random projects that are mostly closed source. 
 Skills: Kotlin | Lua | Rust
 
 - 🔭 I’m currently working on a Minecraft Server Plugin 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning glsl
 - 📫 How to reach me: karlitocz (Discord)
-
+- 🦄 Kotlin glazer
 
 
 
