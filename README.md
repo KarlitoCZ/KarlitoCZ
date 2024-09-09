@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Karlito
 #### I am a programmer from Czech Republic.
 
-I am 14 years old, i do a lot of random projects that are mostly closed source. I also do pixel art in Aseprite. Also my main programming language is Kotlin
+I am 14 years old, i do a lot of random projects that are mostly closed source. I also do pixel art in Aseprite.
 
 Skills: Kotlin | Lua | Rust
 
