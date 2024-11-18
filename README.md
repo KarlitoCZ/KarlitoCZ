@@ -3,7 +3,7 @@
 
 I am 14 years old, i do a lot of random projects that are mostly closed source. I also do pixel art in Aseprite.
 
-Skills: Kotlin | Lua | Rust
+Skills: Kotlin | Lua
 
 - 🔭 I’m currently working on a Minestom server
 - 🌱 I’m currently learning glsl
