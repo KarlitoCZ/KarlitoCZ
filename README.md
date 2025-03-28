@@ -1,9 +1,13 @@
 ### Hi there 👋, I am Karlito
 #### I am a programmer from Czech Republic.
 
-I am 15 years old, i do a lot of random projects that are mostly closed source. I also do pixel art in Aseprite.
+- 15 years old
+- Raspberry Pi enjoyer
+- Roblox Developer
+- [Minestom](https://github.com/Minestom/Minestom) Developer
 
-Skills: Kotlin | Lua
+
+Skills: Kotlin | Lua | Pixel Art
 
 - 🔭 I’m currently working on a roblox game
 - 🌱 I’m currently learning glsl
